@@ -20,7 +20,7 @@ st.set_page_config(
 
 # Sidebar
 with st.sidebar:
-    st.image("/Users/ahmetemintek/Desktop/VLLMs/ziaistudio_logo.jpeg", width=200)
+    st.image("https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/ziaistudio_logo.jpeg", width=200)
     st.markdown("---")
     feature = st.selectbox(
         "Select Feature",
