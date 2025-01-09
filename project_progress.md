@@ -1,0 +1,6 @@
+- [x] Set up the general structure of the Streamlit app.
+- [x] Implement the "Text to Image" feature.
+- [x] Implement the "Image to Image" feature.
+- [x] Implement the "Sketch to Image" feature.
+- [x] Implement the "Image to 3D" feature.
+- [ ] Continue with the implementation of other features (Upscale, Variation, Inpainting).
