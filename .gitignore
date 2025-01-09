@@ -49,3 +49,7 @@ Thumbs.db
 *.zip
 *.rar
 *.7z
+
+# Project files
+PROJECT.md
+project_progress.md
