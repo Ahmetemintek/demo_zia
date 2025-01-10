@@ -206,7 +206,8 @@ elif feature == "Image to Image":
                         "output_format": output_format,
                         "strength": image_strength,
                         "mode": "image-to-image",
-                        "model": "sd3-medium"
+                        "model": "sd3.5-large-turbo"
+                        # "model": "sd3-medium"
                     }
                     
                     # Make API request
